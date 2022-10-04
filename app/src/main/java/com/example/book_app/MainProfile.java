@@ -22,7 +22,7 @@ public class MainProfile extends AppCompatActivity {
 
             switch(item.getItemId()){
                 case R.id.student:
-                    startActivity(new Intent(getApplicationContext(),Mainstudent.class));
+                    startActivity(new Intent(getApplicationContext(), TimeLine.class));
                     overridePendingTransition(0,0);
 
                     break;

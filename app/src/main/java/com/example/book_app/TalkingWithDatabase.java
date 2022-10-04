@@ -1,5 +1,5 @@
 package com.example.book_app;
-
+// Online database
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 

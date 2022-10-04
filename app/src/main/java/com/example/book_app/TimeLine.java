@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
-public class Mainstudent extends AppCompatActivity {
+public class TimeLine extends AppCompatActivity {
 BottomNavigationView bottomNavigationView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,5 +1,5 @@
 package com.example.book_app;
-
+// not the part of project only for the pdf
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;

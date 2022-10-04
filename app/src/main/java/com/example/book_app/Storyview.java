@@ -1,5 +1,5 @@
 package com.example.book_app;
-
+// This view shows us the whatsapp status like view
 
 import android.content.Intent;
 import android.os.Bundle;

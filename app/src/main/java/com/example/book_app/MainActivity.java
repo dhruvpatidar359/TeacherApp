@@ -5,23 +5,14 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.drawerlayout.widget.DrawerLayout;
-import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
 import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.provider.ContactsContract;
-import android.widget.Toast;
 
 import com.example.book_app.Adapter.BookAdapter;
 import com.example.book_app.Models.Datatypes;
-import com.example.book_app.databinding.ActivityMainBinding;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -29,9 +20,6 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
-
-import xute.storyview.StoryModel;
-import xute.storyview.StoryView;
 
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding ;
@@ -59,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         switch(item.getItemId()){
             case R.id.student:
-                startActivity(new Intent(getApplicationContext(),Mainstudent.class));
+                startActivity(new Intent(getApplicationContext(), TimeLine.class));
                 overridePendingTransition(0,0);
                 break;
 

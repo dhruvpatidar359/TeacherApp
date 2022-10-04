@@ -1,5 +1,5 @@
 package com.example.book_app;
-
+// Not the Part of project
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.ProgressDialog;

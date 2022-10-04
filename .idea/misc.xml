@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable-v24/ic_arrow_back_24dp.xml" value="0.1615" />
         <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.1615" />
         <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1615" />
         <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_policy_24.xml" value="0.1615" />
         <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1615" />
         <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/layout/activity_intro_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/layout/activity_mainstudent.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/layout/header.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/layout/sample_books.xml" value="0.22" />
         <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/menu/bottom_nav_bar.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/circleyellowfil.xml" value="0.1755" />
         <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/circular_grey_bordersolid.xml" value="0.1755" />
