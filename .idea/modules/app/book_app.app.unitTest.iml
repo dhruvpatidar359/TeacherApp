@@ -87,5 +87,4 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.exifinterface:exifinterface:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: es.voghdev.pdfviewpager:library:1.1.2@aar" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="book_app.app.main" />
 </module>
