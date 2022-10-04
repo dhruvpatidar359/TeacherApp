@@ -10,14 +10,10 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.example.book_app.Models.Datatypes;
-import com.example.book_app.PdfViewer;
 import com.example.book_app.R;
-import com.example.book_app.SampleBooks;
 import com.example.book_app.Storyview;
 import com.squareup.picasso.Picasso;
-
 import java.util.ArrayList;
 
 public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewAdapter> {
