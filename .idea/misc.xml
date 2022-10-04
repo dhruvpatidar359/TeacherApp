@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.1615" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1615" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_policy_24.xml" value="0.1615" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1615" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/layout/activity_intro_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/Android Projects/bookapp/app/src/main/res/menu/bottom_nav_bar.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/circleyellowfil.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/circular_grey_bordersolid.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/circularbordersolid.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/ic_arrow_back_24dp.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/ic_bg.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/ic_email_24dp.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.102" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable-v24/ic_save.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable/ic_baseline_policy_24.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.102" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_add_note.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_intro_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_main_profile.xml" value="0.22" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_mainstudent.xml" value="0.1518987341772152" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_pdf_viewer.xml" value="0.1" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_sample_books.xml" value="0.1" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_status.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_storyview.xml" value="0.1" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/activity_talking_with_database.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/fragment_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/fragment_studentfrag.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/header.xml" value="0.22" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/layout/sample_books.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/menu/bottom_nav_bar.xml" value="0.22" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/menu/note_add.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/menu/sidemenu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1755" />
+        <entry key="..\:/Users/dhruv/Desktop/bookapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1755" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

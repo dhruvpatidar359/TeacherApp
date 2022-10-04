@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/alatsi</item>
+        <item>@font/amaranth</item>
+        <item>@font/archivo_black</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/castoro</item>
+        <item>@font/crete_round</item>
+        <item>@font/lato_bold</item>
+        <item>@font/marcellus_sc</item>
+    </array>
+</resources>

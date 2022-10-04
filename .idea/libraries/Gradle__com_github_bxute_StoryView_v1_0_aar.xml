@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.bxute:StoryView:v1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a9f1efa58c2fea0453ee84574538e452/transformed/jetified-StoryView-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9f1efa58c2fea0453ee84574538e452/transformed/jetified-StoryView-v1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a9f1efa58c2fea0453ee84574538e452/transformed/jetified-StoryView-v1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be52c21b19c1e0cb4dce02f14debe03f/transformed/jetified-StoryView-v1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/be52c21b19c1e0cb4dce02f14debe03f/transformed/jetified-StoryView-v1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/be52c21b19c1e0cb4dce02f14debe03f/transformed/jetified-StoryView-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b0902697ceb2b9a6d097a981cb36643/transformed/jetified-StoryView-v1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b0902697ceb2b9a6d097a981cb36643/transformed/jetified-StoryView-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b0902697ceb2b9a6d097a981cb36643/transformed/jetified-StoryView-v1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8855c71fe7f9a4f23622f812f31b272c/transformed/jetified-StoryView-v1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8855c71fe7f9a4f23622f812f31b272c/transformed/jetified-StoryView-v1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8855c71fe7f9a4f23622f812f31b272c/transformed/jetified-StoryView-v1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/602a9b1c660ee72fa245e5c782e6ea87/transformed/jetified-StoryView-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/602a9b1c660ee72fa245e5c782e6ea87/transformed/jetified-StoryView-v1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/602a9b1c660ee72fa245e5c782e6ea87/transformed/jetified-StoryView-v1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

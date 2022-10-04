@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/student"
+        android:icon="@drawable/boy"
+        android:title="Student" />
+    <item
+        android:icon="@drawable/smartphone"
+        android:title="Content"
+        android:id="@+id/content"/>
+    <item
+        android:icon="@drawable/pro"
+        android:title="Profile"
+        android:id="@+id/profile"
+
+        />
+</menu>

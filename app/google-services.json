@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934053521769",
+    "firebase_url": "https://best-books-78570-default-rtdb.firebaseio.com",
+    "project_id": "best-books-78570",
+    "storage_bucket": "best-books-78570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934053521769:android:edc1545857d5e2d873b5f8",
+        "android_client_info": {
+          "package_name": "com.example.book_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934053521769-m682hue9tir1ac68jdfe266b813feto8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTS6K7y3xp8Uuyh6JLWZJeAOPvczA6I7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934053521769-m682hue9tir1ac68jdfe266b813feto8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
